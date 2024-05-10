@@ -32,3 +32,8 @@ Alternativamente, você pode substituir diretamente API_KEY no script com sua ch
   
 # Observações:
 - A qualidade do cronograma de estudos gerado depende das informações fornecidas no PDF e das capacidades do modelo Generative AI.
+
+# Exemplo de execução
+![Captura de tela 2024-05-10 191235](https://github.com/gbr-guimaraes/Projeto-organizador-de-estudos/assets/54336887/37c98c04-6eca-4f43-96c0-599796d57b5e)
+![Captura de tela 2024-05-10 191327](https://github.com/gbr-guimaraes/Projeto-organizador-de-estudos/assets/54336887/fd51c325-dd03-40a8-8f9a-f01d2e3459b6)
+
